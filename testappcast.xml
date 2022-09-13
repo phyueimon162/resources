@@ -3,11 +3,11 @@
     <channel>
         <title>Ebook</title>
         <item>
-            <title>Version 0.12.0</title>
+            <title>Version 0.13.0</title>
             <description>Minor updates and improvements</description>
             <pubDate>Sun, 24 Jul 2022 12:00:00 +0000</pubDate>
-            <sparkle:version>0.12.0</sparkle:version>
-            <enclosure url="https://testflight.apple.com/join/gSESnONj" sparkle:version="0.12.0" sparkle:os="ios" />
+            <sparkle:version>0.13.0</sparkle:version>
+            <enclosure url="https://testflight.apple.com/join/gSESnONj" sparkle:version="0.13.0" sparkle:os="ios" />
         </item>
         <item>
             <title>Version 0.13.0</title>
